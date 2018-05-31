@@ -1,0 +1,19 @@
+body {
+    padding-top: 3rem;
+}
+
+#survey {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+}
+
+textarea {
+    width: 100%;
+}
